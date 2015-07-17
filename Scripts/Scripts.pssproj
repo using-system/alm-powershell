@@ -31,6 +31,7 @@
     <Folder Include="Build\Set-AssemblyVersion\" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Build\Script1.ps1" />
     <Compile Include="Build\Set-AssemblyVersion\Script1.ps1" />
     <Compile Include="Build\Set-AssemblyVersion\Set-AssemblyVersion.ps1" />
   </ItemGroup>
