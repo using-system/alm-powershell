@@ -13,4 +13,4 @@ ALM / DevOps PowerShell Scripts
 ## Scripts
 
 * Build
-** [Set Assembly Version](https://github.com/using-system/alm-powershell/tree/master/Scripts/Build/Set-AssemblyVersion)
+  * [Set Assembly Version](https://github.com/using-system/alm-powershell/tree/master/Scripts/Build/Set-AssemblyVersion)
