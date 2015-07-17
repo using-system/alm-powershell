@@ -9,3 +9,8 @@ ALM / DevOps PowerShell Scripts
 
 ###With TFS Build vNext
 <img src="http://img.over-blog-kiwi.com/1/52/77/28/20150717/ob_5cdd11_heto-7.gif" />
+
+## Scripts
+
+* Build
+** [Set Assembly Version](https://github.com/using-system/alm-powershell/tree/master/Scripts/Build/Set-AssemblyVersion)
