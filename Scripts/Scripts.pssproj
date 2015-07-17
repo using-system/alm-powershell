@@ -29,6 +29,7 @@
   <ItemGroup>
     <Folder Include="Build\" />
     <Folder Include="Build\Set-AssemblyVersion\" />
+    <Folder Include="dd\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Build\Set-AssemblyVersion\Script1.ps1" />
