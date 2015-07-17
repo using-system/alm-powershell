@@ -27,18 +27,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Folder Include="Build2\" />
-    <Folder Include="Build2\Set-AssemblyVersion\" />
     <Folder Include="Build\" />
     <Folder Include="Build\Set-AssemblyVersion\" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Build2\Script1.ps1" />
-    <Compile Include="Build2\Set-AssemblyVersion\Script1.ps1" />
-    <Compile Include="Build2\Set-AssemblyVersion\Set-AssemblyVersion.ps1" />
+    <Compile Include="Build\Set-AssemblyVersion\Set-AssemblyVersion.ps1" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Build\README.md" />
+    <Content Include="Build\Set-AssemblyVersion\README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Target Name="Build" />
