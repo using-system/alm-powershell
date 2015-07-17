@@ -38,7 +38,7 @@
     <Compile Include="Build2\Set-AssemblyVersion\Set-AssemblyVersion.ps1" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Build\Set-AssemblyVersion\README.md" />
+    <Content Include="Build\README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Target Name="Build" />
