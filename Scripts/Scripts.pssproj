@@ -34,6 +34,7 @@
   <ItemGroup>
     <Compile Include="Build\Set-AssemblyVersion\Script1.ps1" />
     <Compile Include="Build\Set-AssemblyVersion\Set-AssemblyVersion.ps1" />
+    <Compile Include="dd\Script1.ps1" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Target Name="Build" />
