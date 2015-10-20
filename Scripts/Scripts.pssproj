@@ -29,9 +29,11 @@
   <ItemGroup>
     <Folder Include="Build\" />
     <Folder Include="Build\Set-AssemblyVersion\" />
+    <Folder Include="Test\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Build\Set-AssemblyVersion\Set-AssemblyVersion.ps1" />
+    <Compile Include="Test\RunTests.ps1" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Build\Set-AssemblyVersion\README.md" />
